@@ -1,0 +1,24 @@
+{
+  "name": "pethouse",
+  "version": "1.0.0",
+  "description": "PetHouse-Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishantD/PetHouse-Backend.git"
+  },
+  "keywords": [
+    "Pet",
+    "care",
+    "house"
+  ],
+  "author": "Rishant Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishantD/PetHouse-Backend/issues"
+  },
+  "homepage": "https://github.com/RishantD/PetHouse-Backend#readme"
+}
